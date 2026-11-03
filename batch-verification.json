@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "engine": "Windows PowerShell 5.1",
+  "fullIsoApply": "PASS",
+  "outputSha256": "91c5bcd72b2105482e7d112687753afa0cdfef48320798830fa9771b7610154f",
+  "batchLauncherInvalidIso": "PASS",
+  "externalExecutableIncluded": false,
+  "playthrough": "Not performed"
+}

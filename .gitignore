@@ -1,0 +1,22 @@
+# Never commit game images, dumps, font files, patch payloads, or local results.
+*.iso
+*.xex
+*.cpk
+*.2DP
+*.2DV
+*.bin
+*.ttf
+*.otf
+*.ngkp.gz
+*.partial
+*.zip
+*.png
+*.jpg
+*.mp4
+translation-catalog*
+work/
+private/
+node_modules/
+*.log
+
+*.exe

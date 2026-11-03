@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "executable": "NieR-Gestalt-JP-KO-ISO-Patcher.exe",
+  "exeSha256": "085fb5ff241d5ce236fff2f18039ad655dc833beab66ffbadabca8d873c70612",
+  "fullIsoApply": "PASS",
+  "processExitCode": 0,
+  "outputSize": 6387351552,
+  "outputSha256": "91c5bcd72b2105482e7d112687753afa0cdfef48320798830fa9771b7610154f",
+  "expectedTargetMatch": true,
+  "safetyCasesPassed": 4,
+  "gui": "Korean controls visually checked",
+  "runtime": "Windows x64, .NET Framework; no Node.js dependency",
+  "playthrough": "Not performed by this EXE test"
+}

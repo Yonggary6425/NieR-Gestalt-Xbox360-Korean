@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-03",
+  "syntheticTestsPassed": 6,
+  "fullIsoReconstruction": true,
+  "diskReadbackSha256": "91c5bcd72b2105482e7d112687753afa0cdfef48320798830fa9771b7610154f",
+  "inputSha256": "4f7c83a2ccf66e954d19b3fae4f27e657503bd6825a68f2c5fab1b43a5101a24",
+  "patchSha256": "1e66953a0334fa76c547157b6bb7319a1f9d421f25d9bdcf77ec951844161961",
+  "font": {
+    "source": "https://github.com/google/fonts/tree/main/ofl/nanumgothic",
+    "ttfSha256": "76f45ef4a6bcff344c837c95a7dcc26e017e38b5846d5ae0cdcb5b86be2e2d31",
+    "derivedName": "NGK Bitmap",
+    "license": "SIL Open Font License 1.1",
+    "glyphCount": 1163,
+    "missingCmapGlyphs": 0
+  },
+  "publicGameDataDistributionPermission": "not established"
+}

@@ -1,0 +1,21 @@
+NGK Bitmap — derived Korean glyph atlas, version 0.1.0
+
+This format-converted subset contains 1,163 rendered glyphs derived from:
+NanumGothic-Regular.ttf, distributed in the Google Fonts repository.
+Source: https://github.com/google/fonts/tree/main/ofl/nanumgothic
+
+Original notice:
+Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com),
+with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver
+NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver
+NanumBrush, NanumPen, Naver NanumPen.
+
+The derived font's primary name is NGK Bitmap, not any of those Reserved Font Names.
+The new font-derived components are licensed under SIL Open Font License 1.1.
+The complete license and original notice are included at licenses/OFL-NanumGothic.txt.
+Original font binary SHA-256 is recorded in verification.json.
+
+The original TTF is not included. Windows/Malgun Gothic bitmap glyphs are not included
+in this new game-font variant. Existing glyphs and metadata in the user's original
+game remain subject to their original rights; this notice does not relicense them.
+No endorsement by the font authors or original game rights holders is claimed.
